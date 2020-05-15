@@ -1,2 +1,5 @@
-# C-Developer
-C++ Developer
+# C++Developer
+Solutions of my homeworks:
+- C++ Starter
+- C++ Essential
+- C++ Advanced
