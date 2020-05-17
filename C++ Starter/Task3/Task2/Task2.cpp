@@ -21,7 +21,7 @@ int main()
 	cout << "x = y - x++ * z" << endl;
 	cout << "x=" << x << ", y=" << y << ", z=" << z << endl;
 	cin.get();
-	return 1;
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

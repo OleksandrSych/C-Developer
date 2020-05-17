@@ -8,7 +8,7 @@ int main()
     double circleArea = pi * r * r;
     std::cout << "Circle area(r=5) = "<< circleArea;
     std::cin.get();
-    return 1;
+    return 0;
 }
 
  

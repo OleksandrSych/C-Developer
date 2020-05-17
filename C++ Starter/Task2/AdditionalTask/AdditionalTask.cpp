@@ -7,6 +7,6 @@ int main()
     a = 447;
     std::cout << "a = " << a;
     std::cin.get();
-    return 1;
+    return 0;
 }
  

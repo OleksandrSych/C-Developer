@@ -10,6 +10,6 @@ int main()
 	auto avg = (a + b + c) / 3.0;
 	cout << "a = 1, b = 4, c = 16; " << " AVG(a,b,c) = " << avg;
 	cin.get();
-	return 1;
+	return 0;
 }
  
