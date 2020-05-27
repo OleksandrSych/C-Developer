@@ -1,0 +1,6 @@
+﻿  AdditionalTask.cpp
+C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\AdditionalTask\AdditionalTask.cpp(45,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\AdditionalTask\AdditionalTask.cpp(47,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\AdditionalTask\AdditionalTask.cpp(61,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\AdditionalTask\AdditionalTask.cpp(63,26): warning C4018: '<': signed/unsigned mismatch
+  AdditionalTask.vcxproj -> C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\Debug\AdditionalTask.exe

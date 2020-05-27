@@ -1,0 +1,5 @@
+﻿  Task2.cpp
+C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\Task2\Task2.cpp(17,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\Task2\Task2.cpp(25,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\Task2\Task2.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+  Task2.vcxproj -> C:\Users\Привіт\Documents\GitHub\C-Developer\C++ Starter\Task10\Debug\Task2.exe
